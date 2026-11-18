@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定位测试器</string>
+    <string name="subtitle">Android 位置服务诊断工具 · Magic8 适配基础版</string>
+
+    <string name="permission_title">定位权限</string>
+    <string name="permission_missing">尚未获得定位权限</string>
+    <string name="permission_ok">已获得定位权限</string>
+
+    <string name="provider_title">系统定位提供器</string>
+    <string name="provider_unknown">正在读取…</string>
+    <string name="provider_format">GPS：%1$s　网络：%2$s</string>
+
+    <string name="location_title">最近一次系统定位</string>
+    <string name="location_unknown">暂无位置</string>
+    <string name="location_waiting">正在等待系统定位…</string>
+    <string name="accuracy_unknown">精度：未知</string>
+
+    <string name="copy_location">复制坐标</string>
+    <string name="refresh">刷新定位</string>
+    <string name="open_location_settings">打开系统定位设置</string>
+
+    <string name="disclaimer">本应用只读取 Android 系统提供的位置并用于开发、调试和设备定位功能测试；不会修改微信、小程序或第三方应用的位置，也不会绕过模拟定位检测或签到规则。</string>
+</resources>
